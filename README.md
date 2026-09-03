@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="docs/icon.png" width="112" height="112" alt="NoPop icon">
-</p>
 
 # NoPop
 
