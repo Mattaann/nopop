@@ -4,7 +4,7 @@
 
 # NoPop
 
-Keep your speakers ready. NoPop is a lightweight, native macOS menu bar app that maintains an audio stream with extremely faint noise to help prevent clicks caused by audio hardware entering idle mode.
+Pop or crackling sounds coming from your Mac speakers in certain programs? Try this! NoPop quietly keeps the audio stream active with an extremely faint signal to help prevent idle-related audio clicks.
 
 **macOS 13+ · SwiftUI · No dependencies · No network access**
 
